@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   adp-calico-helm-library:
   - apiVersion: v2
-    created: "2024-02-13T12:11:03.9711709Z"
+    created: "2024-02-14T08:26:36.7157191Z"
+    description: ADP Calico Helm Library
+    digest: 2778dbc19bae742580c971c9f7454c05a7a2f54ef4ecbdc80af4c60c4c393024
+    name: adp-calico-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra-adp-sandpit/adp-helm-repository/main/adp-calico-helm-library/adp-calico-helm-library-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    created: "2024-02-14T08:26:36.7147513Z"
     description: ADP Calico Helm Library
     digest: 5959bc63b1241c5bbe1ca7596ad58850cd0dd92fa73defdfe8433b9225eae20a
     name: adp-calico-helm-library
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/defra-adp-sandpit/adp-helm-repository/main/adp-calico-helm-library/adp-calico-helm-library-0.0.1.tgz
     version: 0.0.1
-generated: "2024-02-13T12:11:03.9701711Z"
+generated: "2024-02-14T08:26:36.7073208Z"
