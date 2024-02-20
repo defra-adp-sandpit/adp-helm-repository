@@ -1,3 +1,20 @@
 apiVersion: v1
-entries: {}
-generated: "2024-02-20T13:56:57.835682Z"
+entries:
+  adp-calico-helm-chart:
+  - apiVersion: v2
+    created: "2024-02-20T14:09:54.9462744Z"
+    description: ADP Calico Helm Chart
+    digest: 791df524acb8aa26c0b0ace02dee5199287476f65641478daba4c1e926b37feb
+    name: adp-calico-helm-chart
+    urls:
+    - https://raw.githubusercontent.com/defra-adp-sandpit/adp-helm-repository/main/adp-calico-helm-chart/adp-calico-helm-chart-0.0.4-prerelease24.tgz
+    version: 0.0.4-prerelease24
+  - apiVersion: v2
+    created: "2024-02-20T14:09:54.9462744Z"
+    description: ADP Calico Helm Chart
+    digest: 24e9a2dd3a16b82633df9e47a239b75c88ee230a5a869ec28e84644c480b196d
+    name: adp-calico-helm-chart
+    urls:
+    - https://raw.githubusercontent.com/defra-adp-sandpit/adp-helm-repository/main/adp-calico-helm-chart/adp-calico-helm-chart-0.0.4-prerelease23.tgz
+    version: 0.0.4-prerelease23
+generated: "2024-02-20T14:09:54.9462744Z"
